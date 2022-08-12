@@ -1,15 +1,25 @@
 {
-  "name": "poc",
+  "name": "pyscript-gs",
   "version": "1.0.0",
-  "description": "",
+  "description": "python run by node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gajanan Shinde",
   "license": "ISC",
   "dependencies": {
     "python-shell": "^3.0.1"
-  }
+  },
+  "type": "module",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogajanan/pyscript-gs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gogajanan/pyscript-gs/issues"
+  },
+  "homepage": "https://github.com/gogajanan/pyscript-gs#readme"
 }
